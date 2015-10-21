@@ -1,0 +1,38 @@
+
+".login_tf":{
+	width:"70%",
+	height:40, 
+	bottom:10,
+	backgroundColor: "#eee",
+	color:"#666",
+	hintTextColor:"#ccc"
+}
+"#login_wrapper" : {
+	top:10,
+	left:10,
+	right:10,
+	bottom:10
+}
+"#login_mgs":{
+	color: '#fff',
+	font: {
+		fontSize: 18,
+		//fontWeight: 'bold'
+	},
+	height:50
+	
+}
+"#login_btn_wrapper" : {
+	width:"70%",
+}
+"#btn_login":{
+	width:"49%",
+	right:"2%",
+	backgroundColor:"#5cb85c",
+	borderColor:"#5cb85c"
+}
+"#btn_cancel":{
+	width:"49%",
+	backgroundColor:"#d9534f",
+	borderColor:"#d43f3a"
+}

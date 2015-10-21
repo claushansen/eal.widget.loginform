@@ -1,0 +1,11 @@
+<Alloy>
+	<View id="login_wrapper" layout="vertical">
+		<Label id="login_mgs">Please login</Label>
+		<TextField id="tf_username" class="login_tf" hintText="Username"></TextField>
+		<TextField id="tf_password" class="login_tf" passwordMask="true" hintText="Password"></TextField>
+			<View id="login_btn_wrapper" layout="horizontal">
+				<Button id="btn_login">Login</Button>
+				<Button id="btn_cancel">Cancel</Button>
+			</View>
+	</View>
+</Alloy>
